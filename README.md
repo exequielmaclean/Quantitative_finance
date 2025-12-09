@@ -4,4 +4,4 @@
 - Bastian tapia
 
 ### Problema a resolver
-Ordenar por riesgo de mercado un conjunto de ETFs de iShares, utilizando como indicador el Value at Risk
+Clasificar una selección de ETFs de iShares según su exposición al riesgo de mercado, empleando el Value at Risk (VaR) como métrica principal.
